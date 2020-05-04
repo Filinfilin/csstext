@@ -1,0 +1,311 @@
+.block3{
+
+    position: absolute;
+    width: 1137.28px;
+    height: 1026px;
+    left: 220px;
+    top: 1613px;
+}
+.text{
+    left: 287.29px;
+    text-align: center;
+    position: absolute;
+    width: 584px;
+    height: 160px;
+
+}
+.texth1{
+    width: 405px;
+    height: 52px;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 130%;
+    text-align: center;
+    color: #212353;
+    margin-left: 89px;
+}
+.texth2{
+    margin-top: 50px;
+    font-family: Avenir;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+    text-align: center;
+    color: #4B5D68;
+    width: 584px;
+    height: 58px;
+
+}
+.divfimg{
+
+    margin-top: 230px;
+    display: grid;
+    height: 1137.28px;
+    width: 806px;
+    grid-template-columns: 568.64px 568.64px;
+    grid-template-rows: 403px 403px;
+  
+
+}
+
+.featurecard1{
+
+    position: relative;
+    display: flex;
+    height: 360px;
+    width: 531px;
+    bottom: 34px;
+}
+
+            .featurecard1 .featurename{
+
+                height: 50px;
+                width: 200px;
+                position: absolute;
+                bottom: 250px;
+                left: 270px;
+                font-family: Helvetica;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 24px;
+                color: #212353;
+                
+
+            }
+            .featurecard1 .featurdiscript{
+
+                position: absolute;
+                width: 250px;
+                height: 100px;
+                left: 270px;
+                bottom: 160px;
+                font-family: Avenir;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 160%;
+                color: #4B5D68;
+            }
+            .featurecard1 .featurebtn1{
+
+                position: absolute;
+                width: 200pxpx;
+                height: 26px;
+                left: 270px;
+                bottom: 25px;
+                font-family: Avenir;
+                font-style: normal;
+                font-weight: 800;
+                font-size: 16px;
+                line-height: 160%;
+                display: flex;
+                letter-spacing: 0.005em;              
+                color: #212353;
+                justify-content: center;
+                align-items: center
+
+            }
+            .featurecard1 .featurebtn1 img{
+
+                width: 20px;
+                height: 14;
+                margin-left: 10px;
+
+
+            }
+
+.featurecard2{
+
+    position: relative;
+    display: flex;
+    height: 360px;
+    width: 531px;
+
+}
+
+    .featurecard2 .featurename{
+
+                height: 50px;
+                width: 250px;
+                position: absolute;
+                bottom: 284px;
+                left: 265px;
+                font-family: Helvetica;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 24px;
+                color: #212353;
+
+            }
+     .featurecard2 .featurdiscript{
+
+                position: absolute;
+                width: 220px;
+                height: 160px;
+                left: 265px;
+                bottom: 135px;
+                font-family: Avenir;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 160%;
+                color: #4B5D68;
+            }
+            .featurecard2 .featurebtn2{
+
+                position: absolute;
+               
+                height: 26px;
+                left: 265px;
+                bottom: 58.5px;
+                font-family: Avenir;
+                font-style: normal;
+                font-weight: 800;
+                font-size: 16px;
+                line-height: 160%;
+                display: flex;
+                letter-spacing: 0.005em;              
+                color: #212353;
+                justify-content: center;
+                align-items: center
+
+            }
+            .featurecard2 .featurebtn2 img{
+
+                width: 20px;
+                height: 14;
+                margin-left: 10px;
+
+
+            }
+     
+.featurecard3{
+
+    position: relative;
+    display: flex;
+    height: 360px;
+    width: 544px;
+
+}
+
+    .featurecard3 .featurename{
+
+                height: 50px;
+                width: 200px;
+                position: absolute;
+                bottom: 275px;
+                left: 275px;
+                font-family: Helvetica;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 24px;
+                color: #212353;
+
+            }
+     .featurecard3 .featurdiscript{
+
+                position: absolute;
+                width: 220px;
+                height: 160px;
+                left:  275px;
+                bottom: 123px;
+                font-family: Avenir;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 160%;
+                color: #4B5D68;
+     }
+     .featurecard3 .featurebtn3{
+
+                display: flex;
+                position: absolute;
+                
+                height: 26px;
+                left: 270px;
+                bottom: 23px;
+                font-family: Avenir;
+                font-style: normal;
+                font-weight: 800;
+                font-size: 16px;
+                line-height: 160%;
+                letter-spacing: 0.005em;              
+                color: #212353;
+                justify-content: center;
+                align-items: center
+
+    }
+    .featurecard3 .featurebtn3 img{
+
+                width: 20px;
+                height: 14;
+                margin-left: 10px;
+
+
+    }
+.featurecard4{
+
+    position: relative;
+    display: flex;
+    height: 360px;
+    width: 544px;
+    
+    }
+    
+    .featurecard4 .featurename{
+    
+                height: 50px;
+                width: 200px;
+                position: absolute;
+                bottom: 275px;
+                left:  275px;
+                font-family: Helvetica;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 24px;
+                color: #212353;
+    
+                }
+    .featurecard4 .featurdiscript{
+    
+                position: absolute;
+                width: 220px;
+                height: 160px;
+                left:  275px;
+                bottom: 123px;
+                font-family: Avenir;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 160%;
+                color: #4B5D68;
+         }
+         .featurecard4 .featurebtn4{
+
+                position: absolute;
+                height: 26px;
+                left:  275px;
+                bottom: 23px;
+                font-family: Avenir;
+                font-style: normal;
+                font-weight: 800;
+                font-size: 16px;
+                line-height: 160%;
+                display: flex;
+                letter-spacing: 0.005em;              
+                color: #212353;
+                justify-content: center;
+                align-items: center
+
+        }
+        .featurecard4 .featurebtn4 img{
+
+                width: 20px;
+                height: 14;
+                margin-left: 10px;
+
+
+        }

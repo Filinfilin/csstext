@@ -1,24 +1,34 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Block1 from './components/Block1';
+import Block2 from './components/Block2';
+import st from './App.module.css'
+import Block3 from './components/Block3';
+import Block4 from './components/Block4';
+import data from './data/data.js'
+import Block5 from './components/Block5';
 
-function App() {
+
+function App(props) {
+
+  
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+    <div className={st.allblocks}>
+      
+
+         <Block1/>
+
+         <Block2/>
+
+         <Block3/>
+
+         <Block4  data={data.property} />
+
+         <Block5/>
+
     </div>
   );
 }

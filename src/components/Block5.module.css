@@ -1,0 +1,154 @@
+.block5{
+
+    position: absolute;
+    width: 1600px;
+    margin-top: 3648px;
+   
+
+}
+
+.head{
+    margin-top: 100px;
+    width: 1117px;
+    height:101px;
+    margin-left: 240px;
+    display: flex;
+    align-content: space-between;
+    align-items: baseline;
+    flex-direction: row;
+}
+
+.tryforfree{
+    width: 584px;
+    height: 101px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.buttons{
+
+    margin-left:123px ;
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    width: 410px;
+    justify-content: space-between;
+
+
+}
+
+.btnlearnbottom{
+
+    display: flex;
+    align-items: center;
+    background: #F063B8;
+    height: 60px;
+    width: 170px;
+    border-radius: 50px;
+    justify-content: center;
+}
+
+.btnrequest{
+    display: flex;
+    align-items: center;
+    background-color: #FFFF;
+    height: 60px;
+    width: 210px;
+    border-radius: 50px;
+    justify-content: center;
+    box-shadow: 0px 5px 5px #4B5D68;
+}
+
+.btnrequest:hover{
+    box-shadow: 0px 5px 5px #4B5D68;
+}
+.btnrequest img{
+    margin-left: 20px;
+}
+.bottom{
+    margin-left: 240px;
+    margin-top: 150px;
+    display: flex;
+    position: absolute;
+    justify-content: space-between;
+    width: 1117px;
+    height: 408px;
+
+}
+
+.Logologo{
+    width: 49px;
+    height: 35px;
+    margin-right: 20px;
+}
+
+.logoname{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+}
+.about{
+    margin-top: 6px;
+
+}
+
+.about ul li{
+    margin-top: ;
+    list-style: none;
+    line-height: 250%;
+}
+.about ul li a{
+    text-decoration: none;
+    color: black;
+    line-height: 250%;
+}
+.help{
+    margin-top: 6px;
+}
+.help ul li{
+    list-style: none;
+    line-height: 250%;
+}
+.help ul li a{
+    text-decoration: none;
+    color: black;
+    line-height: 250%;
+}
+.socialmedia{
+    margin-top: 6px;
+}
+.socialmediaimg{
+
+    display: flex;
+    height: 50px;
+    width: 178px;
+    justify-content: space-between;
+}
+.socialmedia img {
+    height: 50px;
+    width: 50px;
+}
+.socialmedia img:hover {
+    border-radius:50px;
+    box-shadow: 0px 2px 2px #4B5D68;
+
+
+}
+.chat{
+    margin-top: 228px;
+    margin-left:178px;
+}
+.chat img:hover {
+    border-radius:50px;
+    box-shadow: 0px 2px 2px #4B5D68;
+
+
+}
+.info{
+    line-height: 250%;
+    
+}
+

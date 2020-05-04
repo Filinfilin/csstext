@@ -1,0 +1,100 @@
+
+.block4{
+    width: 100%;
+    height: 709px;
+    margin-top: 2789px;
+    position: absolute;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+.wrapper{
+    position: relative;
+    width: 1118px;
+    height: 709px;
+    left: 242px;
+    background: #9C69E2;
+    border-radius: 50px;
+    display: flex;
+}
+.wrapper h1{
+    position: absolute;
+    width: 405px;
+    height: 52;
+    margin-left:93px;
+    margin-top: 109px;
+    animation: move 0.05s ease-in-out infinite;
+}
+
+
+.carusel{
+    position: absolute;
+    flex-direction: row;
+    display: flex;
+    transition: transform 500ms cubic-bezier(0.075, 0.82, 0.165, 1);
+
+}
+
+
+
+.buttons{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    height: 14px;
+    width: 949px;
+    margin-top: 600px;
+    left: 335px ;
+    justify-content:space-between;
+
+}
+.buttons .rowtriger{
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    }
+
+.buttons .rowtriger .triger{
+    width: 5px;
+    height: 5px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
+.buttons .arrows{
+
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+
+}
+.arrow1{
+    opacity: 0.7;
+}
+.arrow1:hover{
+
+    opacity: 1.0;
+
+
+}
+.arrow2{
+    opacity: 0.7;
+}
+.arrow2:hover{
+
+    opacity: 1.0;
+
+}
+
+
+.buttons .arrows div{
+
+    margin-left: 10px;
+    
+
+}
+.wrapper .caruselwrapper-0{
+    color: rgb(5, 5, 8);
+
+}

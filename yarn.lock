@@ -4608,7 +4608,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"css-loader@npm:3.4.2":
+"css-loader@npm:3.4.2, css-loader@npm:^3.4.2":
   version: 3.4.2
   resolution: "css-loader@npm:3.4.2"
   dependencies:
@@ -13308,6 +13308,18 @@ resolve@1.15.0:
   languageName: node
   linkType: hard
 
+"style-loader@npm:^1.1.3":
+  version: 1.1.3
+  resolution: "style-loader@npm:1.1.3"
+  dependencies:
+    loader-utils: ^1.2.3
+    schema-utils: ^2.6.4
+  peerDependencies:
+    webpack: ^4.0.0 || ^5.0.0
+  checksum: 29d91ee77e1669ad0cc38a9e0dd67f02c3d3096e52d3d16e9726d9f4ff758cc0729f32c6b7f2d1a374c68fcbe36774fba0d38596375f00d93bd8337e188c66b5
+  languageName: node
+  linkType: hard
+
 "stylehacks@npm:^4.0.0":
   version: 4.0.3
   resolution: "stylehacks@npm:4.0.3"
@@ -13494,9 +13506,11 @@ resolve@1.15.0:
     "@testing-library/jest-dom": ^4.2.4
     "@testing-library/react": ^9.3.2
     "@testing-library/user-event": ^7.1.2
+    css-loader: ^3.4.2
     react: ^16.13.1
     react-dom: ^16.13.1
     react-scripts: 3.4.1
+    style-loader: ^1.1.3
   languageName: unknown
   linkType: soft
 
